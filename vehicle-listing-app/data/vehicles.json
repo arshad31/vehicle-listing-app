@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Tesla",
+        "type": "Electric",
+        "price": 500000,
+        "image": "https:\/\/shorturl.at\/Kn89z"
+    },
+    {
+        "name": "BMW",
+        "type": "Electric",
+        "price": 400000,
+        "image": "https:\/\/shorturl.at\/Kn89z"
+    },
+    {
+        "name": "Toyota",
+        "type": "Electric",
+        "price": 300000,
+        "image": "https:\/\/shorturl.at\/Kn89z"
+    }
+
+]
